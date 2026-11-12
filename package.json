@@ -1,0 +1,16 @@
+{
+  "name": "senjin-no-yuigon",
+  "version": "1.0.0",
+  "description": "Japanese anthology of last words",
+  "main": "index.js",
+  "scripts": {
+    "test": "node check-site.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "devDependencies": {
+    "playwright": "^1.65.0"
+  },
+  "private": true
+}

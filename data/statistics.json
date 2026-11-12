@@ -1,0 +1,994 @@
+{
+  "snapshot": "2026-11-13",
+  "people": 537,
+  "works": 722,
+  "japan_people": 533,
+  "other_origin_people": 4,
+  "tagged_works": 722,
+  "attribution_unreviewed": 424,
+  "composition_year_unknown": 687,
+  "themes": [
+    {
+      "theme": "無常",
+      "people": 117,
+      "people_percent": 21.8,
+      "works": 121,
+      "works_percent": 16.8,
+      "japan_people": 117,
+      "japan_people_percent": 22.0
+    },
+    {
+      "theme": "自然へのまなざし",
+      "people": 97,
+      "people_percent": 18.1,
+      "works": 107,
+      "works_percent": 14.8,
+      "japan_people": 97,
+      "japan_people_percent": 18.2
+    },
+    {
+      "theme": "受容",
+      "people": 90,
+      "people_percent": 16.8,
+      "works": 99,
+      "works_percent": 13.7,
+      "japan_people": 90,
+      "japan_people_percent": 16.9
+    },
+    {
+      "theme": "信仰",
+      "people": 86,
+      "people_percent": 16.0,
+      "works": 102,
+      "works_percent": 14.1,
+      "japan_people": 86,
+      "japan_people_percent": 16.1
+    },
+    {
+      "theme": "死の自覚",
+      "people": 86,
+      "people_percent": 16.0,
+      "works": 95,
+      "works_percent": 13.2,
+      "japan_people": 86,
+      "japan_people_percent": 16.1
+    },
+    {
+      "theme": "旅立ち",
+      "people": 78,
+      "people_percent": 14.5,
+      "works": 80,
+      "works_percent": 11.1,
+      "japan_people": 78,
+      "japan_people_percent": 14.6
+    },
+    {
+      "theme": "人生回顧",
+      "people": 69,
+      "people_percent": 12.8,
+      "works": 73,
+      "works_percent": 10.1,
+      "japan_people": 67,
+      "japan_people_percent": 12.6
+    },
+    {
+      "theme": "ユーモア",
+      "people": 60,
+      "people_percent": 11.2,
+      "works": 64,
+      "works_percent": 8.9,
+      "japan_people": 60,
+      "japan_people_percent": 11.3
+    },
+    {
+      "theme": "死後の安住",
+      "people": 48,
+      "people_percent": 8.9,
+      "works": 52,
+      "works_percent": 7.2,
+      "japan_people": 48,
+      "japan_people_percent": 9.0
+    },
+    {
+      "theme": "覚悟",
+      "people": 43,
+      "people_percent": 8.0,
+      "works": 43,
+      "works_percent": 6.0,
+      "japan_people": 40,
+      "japan_people_percent": 7.5
+    },
+    {
+      "theme": "超越",
+      "people": 41,
+      "people_percent": 7.6,
+      "works": 43,
+      "works_percent": 6.0,
+      "japan_people": 37,
+      "japan_people_percent": 6.9
+    },
+    {
+      "theme": "惜別",
+      "people": 39,
+      "people_percent": 7.3,
+      "works": 41,
+      "works_percent": 5.7,
+      "japan_people": 39,
+      "japan_people_percent": 7.3
+    },
+    {
+      "theme": "自然への愛着",
+      "people": 34,
+      "people_percent": 6.3,
+      "works": 34,
+      "works_percent": 4.7,
+      "japan_people": 34,
+      "japan_people_percent": 6.4
+    },
+    {
+      "theme": "創作",
+      "people": 32,
+      "people_percent": 6.0,
+      "works": 35,
+      "works_percent": 4.8,
+      "japan_people": 32,
+      "japan_people_percent": 6.0
+    },
+    {
+      "theme": "忠義",
+      "people": 32,
+      "people_percent": 6.0,
+      "works": 41,
+      "works_percent": 5.7,
+      "japan_people": 32,
+      "japan_people_percent": 6.0
+    },
+    {
+      "theme": "死後の継続",
+      "people": 30,
+      "people_percent": 5.6,
+      "works": 34,
+      "works_percent": 4.7,
+      "japan_people": 29,
+      "japan_people_percent": 5.4
+    },
+    {
+      "theme": "無念",
+      "people": 30,
+      "people_percent": 5.6,
+      "works": 33,
+      "works_percent": 4.6,
+      "japan_people": 30,
+      "japan_people_percent": 5.6
+    },
+    {
+      "theme": "心の澄明",
+      "people": 27,
+      "people_percent": 5.0,
+      "works": 28,
+      "works_percent": 3.9,
+      "japan_people": 27,
+      "japan_people_percent": 5.1
+    },
+    {
+      "theme": "日常へのまなざし",
+      "people": 27,
+      "people_percent": 5.0,
+      "works": 30,
+      "works_percent": 4.2,
+      "japan_people": 27,
+      "japan_people_percent": 5.1
+    },
+    {
+      "theme": "死後のつながり",
+      "people": 27,
+      "people_percent": 5.0,
+      "works": 30,
+      "works_percent": 4.2,
+      "japan_people": 27,
+      "japan_people_percent": 5.1
+    },
+    {
+      "theme": "葬送",
+      "people": 27,
+      "people_percent": 5.0,
+      "works": 29,
+      "works_percent": 4.0,
+      "japan_people": 26,
+      "japan_people_percent": 4.9
+    },
+    {
+      "theme": "家族への思い",
+      "people": 26,
+      "people_percent": 4.8,
+      "works": 27,
+      "works_percent": 3.7,
+      "japan_people": 26,
+      "japan_people_percent": 4.9
+    },
+    {
+      "theme": "志の継承",
+      "people": 24,
+      "people_percent": 4.5,
+      "works": 25,
+      "works_percent": 3.5,
+      "japan_people": 24,
+      "japan_people_percent": 4.5
+    },
+    {
+      "theme": "解脱",
+      "people": 24,
+      "people_percent": 4.5,
+      "works": 24,
+      "works_percent": 3.3,
+      "japan_people": 22,
+      "japan_people_percent": 4.1
+    },
+    {
+      "theme": "命の脆さ",
+      "people": 22,
+      "people_percent": 4.1,
+      "works": 23,
+      "works_percent": 3.2,
+      "japan_people": 22,
+      "japan_people_percent": 4.1
+    },
+    {
+      "theme": "生への願い",
+      "people": 22,
+      "people_percent": 4.1,
+      "works": 22,
+      "works_percent": 3.0,
+      "japan_people": 22,
+      "japan_people_percent": 4.1
+    },
+    {
+      "theme": "病苦",
+      "people": 20,
+      "people_percent": 3.7,
+      "works": 26,
+      "works_percent": 3.6,
+      "japan_people": 19,
+      "japan_people_percent": 3.6
+    },
+    {
+      "theme": "心の持ち方",
+      "people": 19,
+      "people_percent": 3.5,
+      "works": 19,
+      "works_percent": 2.6,
+      "japan_people": 19,
+      "japan_people_percent": 3.6
+    },
+    {
+      "theme": "自己の謙抑",
+      "people": 19,
+      "people_percent": 3.5,
+      "works": 19,
+      "works_percent": 2.6,
+      "japan_people": 19,
+      "japan_people_percent": 3.6
+    },
+    {
+      "theme": "死の普遍性",
+      "people": 18,
+      "people_percent": 3.4,
+      "works": 19,
+      "works_percent": 2.6,
+      "japan_people": 18,
+      "japan_people_percent": 3.4
+    },
+    {
+      "theme": "国への思い",
+      "people": 17,
+      "people_percent": 3.2,
+      "works": 22,
+      "works_percent": 3.0,
+      "japan_people": 17,
+      "japan_people_percent": 3.2
+    },
+    {
+      "theme": "遺された人への配慮",
+      "people": 17,
+      "people_percent": 3.2,
+      "works": 18,
+      "works_percent": 2.5,
+      "japan_people": 17,
+      "japan_people_percent": 3.2
+    },
+    {
+      "theme": "旅",
+      "people": 15,
+      "people_percent": 2.8,
+      "works": 15,
+      "works_percent": 2.1,
+      "japan_people": 15,
+      "japan_people_percent": 2.8
+    },
+    {
+      "theme": "自然の持続",
+      "people": 15,
+      "people_percent": 2.8,
+      "works": 15,
+      "works_percent": 2.1,
+      "japan_people": 15,
+      "japan_people_percent": 2.8
+    },
+    {
+      "theme": "再会の願い",
+      "people": 14,
+      "people_percent": 2.6,
+      "works": 15,
+      "works_percent": 2.1,
+      "japan_people": 14,
+      "japan_people_percent": 2.6
+    },
+    {
+      "theme": "名誉",
+      "people": 14,
+      "people_percent": 2.6,
+      "works": 14,
+      "works_percent": 1.9,
+      "japan_people": 14,
+      "japan_people_percent": 2.6
+    },
+    {
+      "theme": "悲嘆",
+      "people": 13,
+      "people_percent": 2.4,
+      "works": 13,
+      "works_percent": 1.8,
+      "japan_people": 13,
+      "japan_people_percent": 2.4
+    },
+    {
+      "theme": "自己犠牲",
+      "people": 13,
+      "people_percent": 2.4,
+      "works": 14,
+      "works_percent": 1.9,
+      "japan_people": 13,
+      "japan_people_percent": 2.4
+    },
+    {
+      "theme": "故郷への思い",
+      "people": 12,
+      "people_percent": 2.2,
+      "works": 12,
+      "works_percent": 1.7,
+      "japan_people": 12,
+      "japan_people_percent": 2.3
+    },
+    {
+      "theme": "尊厳",
+      "people": 11,
+      "people_percent": 2.0,
+      "works": 11,
+      "works_percent": 1.5,
+      "japan_people": 11,
+      "japan_people_percent": 2.1
+    },
+    {
+      "theme": "自律",
+      "people": 11,
+      "people_percent": 2.0,
+      "works": 11,
+      "works_percent": 1.5,
+      "japan_people": 11,
+      "japan_people_percent": 2.1
+    },
+    {
+      "theme": "感謝",
+      "people": 10,
+      "people_percent": 1.9,
+      "works": 10,
+      "works_percent": 1.4,
+      "japan_people": 9,
+      "japan_people_percent": 1.7
+    },
+    {
+      "theme": "武士の倫理",
+      "people": 10,
+      "people_percent": 1.9,
+      "works": 10,
+      "works_percent": 1.4,
+      "japan_people": 10,
+      "japan_people_percent": 1.9
+    },
+    {
+      "theme": "共同体へのまなざし",
+      "people": 9,
+      "people_percent": 1.7,
+      "works": 9,
+      "works_percent": 1.2,
+      "japan_people": 9,
+      "japan_people_percent": 1.7
+    },
+    {
+      "theme": "戦闘の決意",
+      "people": 9,
+      "people_percent": 1.7,
+      "works": 9,
+      "works_percent": 1.2,
+      "japan_people": 9,
+      "japan_people_percent": 1.7
+    },
+    {
+      "theme": "孤独",
+      "people": 8,
+      "people_percent": 1.5,
+      "works": 8,
+      "works_percent": 1.1,
+      "japan_people": 8,
+      "japan_people_percent": 1.5
+    },
+    {
+      "theme": "主体的な生",
+      "people": 7,
+      "people_percent": 1.3,
+      "works": 7,
+      "works_percent": 1.0,
+      "japan_people": 7,
+      "japan_people_percent": 1.3
+    },
+    {
+      "theme": "本懐",
+      "people": 7,
+      "people_percent": 1.3,
+      "works": 8,
+      "works_percent": 1.1,
+      "japan_people": 7,
+      "japan_people_percent": 1.3
+    },
+    {
+      "theme": "現世の充実",
+      "people": 6,
+      "people_percent": 1.1,
+      "works": 7,
+      "works_percent": 1.0,
+      "japan_people": 6,
+      "japan_people_percent": 1.1
+    },
+    {
+      "theme": "自己決定",
+      "people": 6,
+      "people_percent": 1.1,
+      "works": 7,
+      "works_percent": 1.0,
+      "japan_people": 6,
+      "japan_people_percent": 1.1
+    },
+    {
+      "theme": "家族への訓戒",
+      "people": 5,
+      "people_percent": 0.9,
+      "works": 6,
+      "works_percent": 0.8,
+      "japan_people": 5,
+      "japan_people_percent": 0.9
+    },
+    {
+      "theme": "弁明",
+      "people": 5,
+      "people_percent": 0.9,
+      "works": 5,
+      "works_percent": 0.7,
+      "japan_people": 5,
+      "japan_people_percent": 0.9
+    },
+    {
+      "theme": "親への感謝",
+      "people": 5,
+      "people_percent": 0.9,
+      "works": 5,
+      "works_percent": 0.7,
+      "japan_people": 5,
+      "japan_people_percent": 0.9
+    },
+    {
+      "theme": "節義",
+      "people": 4,
+      "people_percent": 0.7,
+      "works": 5,
+      "works_percent": 0.7,
+      "japan_people": 4,
+      "japan_people_percent": 0.8
+    },
+    {
+      "theme": "謝罪",
+      "people": 4,
+      "people_percent": 0.7,
+      "works": 5,
+      "works_percent": 0.7,
+      "japan_people": 4,
+      "japan_people_percent": 0.8
+    },
+    {
+      "theme": "責任",
+      "people": 4,
+      "people_percent": 0.7,
+      "works": 7,
+      "works_percent": 1.0,
+      "japan_people": 4,
+      "japan_people_percent": 0.8
+    },
+    {
+      "theme": "家族への祈り",
+      "people": 3,
+      "people_percent": 0.6,
+      "works": 3,
+      "works_percent": 0.4,
+      "japan_people": 3,
+      "japan_people_percent": 0.6
+    },
+    {
+      "theme": "節度",
+      "people": 3,
+      "people_percent": 0.6,
+      "works": 3,
+      "works_percent": 0.4,
+      "japan_people": 3,
+      "japan_people_percent": 0.6
+    },
+    {
+      "theme": "共同体の守護",
+      "people": 2,
+      "people_percent": 0.4,
+      "works": 2,
+      "works_percent": 0.3,
+      "japan_people": 2,
+      "japan_people_percent": 0.4
+    },
+    {
+      "theme": "国の再建",
+      "people": 2,
+      "people_percent": 0.4,
+      "works": 3,
+      "works_percent": 0.4,
+      "japan_people": 2,
+      "japan_people_percent": 0.4
+    },
+    {
+      "theme": "忍耐",
+      "people": 2,
+      "people_percent": 0.4,
+      "works": 2,
+      "works_percent": 0.3,
+      "japan_people": 2,
+      "japan_people_percent": 0.4
+    },
+    {
+      "theme": "祭祀",
+      "people": 2,
+      "people_percent": 0.4,
+      "works": 2,
+      "works_percent": 0.3,
+      "japan_people": 2,
+      "japan_people_percent": 0.4
+    },
+    {
+      "theme": "無鬼論",
+      "people": 1,
+      "people_percent": 0.2,
+      "works": 2,
+      "works_percent": 0.3,
+      "japan_people": 1,
+      "japan_people_percent": 0.2
+    }
+  ],
+  "periods": {
+    "1599年以前": {
+      "people": 121,
+      "themes": {
+        "死の自覚": 19,
+        "惜別": 9,
+        "信仰": 30,
+        "自然への愛着": 6,
+        "人生回顧": 18,
+        "無常": 33,
+        "受容": 16,
+        "死の普遍性": 8,
+        "超越": 26,
+        "覚悟": 18,
+        "再会の願い": 5,
+        "日常へのまなざし": 1,
+        "孤独": 2,
+        "生への願い": 4,
+        "旅": 3,
+        "無念": 15,
+        "自然の持続": 4,
+        "ユーモア": 3,
+        "旅立ち": 10,
+        "心の澄明": 8,
+        "志の継承": 8,
+        "心の持ち方": 4,
+        "自己の謙抑": 1,
+        "葬送": 4,
+        "名誉": 6,
+        "病苦": 1,
+        "遺された人への配慮": 4,
+        "家族への思い": 7,
+        "現世の充実": 1,
+        "死後の継続": 6,
+        "国への思い": 1,
+        "本懐": 1,
+        "忠義": 7,
+        "戦闘の決意": 2,
+        "死後のつながり": 9,
+        "弁明": 3,
+        "故郷への思い": 4,
+        "解脱": 12,
+        "責任": 2,
+        "自己犠牲": 2,
+        "武士の倫理": 2,
+        "悲嘆": 4,
+        "死後の安住": 15,
+        "主体的な生": 2,
+        "自然へのまなざし": 6,
+        "創作": 2,
+        "尊厳": 1,
+        "命の脆さ": 7,
+        "感謝": 2,
+        "自律": 2,
+        "節度": 1,
+        "家族への訓戒": 1
+      }
+    },
+    "1600〜1799年": {
+      "people": 139,
+      "themes": {
+        "尊厳": 3,
+        "覚悟": 4,
+        "創作": 11,
+        "旅": 5,
+        "本懐": 3,
+        "葬送": 3,
+        "死の普遍性": 4,
+        "忍耐": 1,
+        "惜別": 9,
+        "自律": 4,
+        "共同体の守護": 1,
+        "祭祀": 1,
+        "節度": 1,
+        "心の澄明": 8,
+        "旅立ち": 28,
+        "人生回顧": 25,
+        "自然への愛着": 12,
+        "死の自覚": 18,
+        "信仰": 20,
+        "解脱": 7,
+        "無常": 30,
+        "再会の願い": 2,
+        "死後のつながり": 7,
+        "名誉": 2,
+        "自己犠牲": 3,
+        "自己の謙抑": 4,
+        "志の継承": 6,
+        "超越": 5,
+        "自然へのまなざし": 28,
+        "受容": 28,
+        "現世の充実": 3,
+        "死後の継続": 10,
+        "武士の倫理": 3,
+        "忠義": 5,
+        "遺された人への配慮": 3,
+        "無念": 2,
+        "生への願い": 5,
+        "ユーモア": 21,
+        "死後の安住": 15,
+        "家族への思い": 4,
+        "日常へのまなざし": 5,
+        "自然の持続": 2,
+        "国への思い": 1,
+        "病苦": 6,
+        "悲嘆": 2,
+        "命の脆さ": 3,
+        "心の持ち方": 3,
+        "孤独": 2,
+        "責任": 1,
+        "家族への訓戒": 1,
+        "共同体へのまなざし": 1,
+        "感謝": 1
+      }
+    },
+    "1800〜1899年": {
+      "people": 145,
+      "themes": {
+        "受容": 33,
+        "無常": 30,
+        "死の普遍性": 4,
+        "国への思い": 11,
+        "志の継承": 7,
+        "主体的な生": 4,
+        "心の持ち方": 8,
+        "ユーモア": 27,
+        "創作": 11,
+        "生への願い": 6,
+        "旅立ち": 23,
+        "信仰": 25,
+        "旅": 3,
+        "死後の安住": 11,
+        "超越": 2,
+        "自然への愛着": 6,
+        "惜別": 13,
+        "武士の倫理": 4,
+        "自己の謙抑": 10,
+        "節義": 4,
+        "尊厳": 3,
+        "忠義": 13,
+        "自己犠牲": 3,
+        "人生回顧": 14,
+        "死後の継続": 10,
+        "共同体の守護": 1,
+        "悲嘆": 2,
+        "家族への思い": 4,
+        "死の自覚": 28,
+        "感謝": 5,
+        "日常へのまなざし": 4,
+        "覚悟": 8,
+        "無念": 10,
+        "心の澄明": 7,
+        "家族への訓戒": 1,
+        "無鬼論": 1,
+        "自然へのまなざし": 31,
+        "命の脆さ": 6,
+        "死後のつながり": 2,
+        "故郷への思い": 2,
+        "遺された人への配慮": 2,
+        "自律": 4,
+        "節度": 1,
+        "本懐": 2,
+        "葬送": 5,
+        "国の再建": 1,
+        "忍耐": 1,
+        "名誉": 4,
+        "戦闘の決意": 2,
+        "共同体へのまなざし": 3,
+        "自然の持続": 4,
+        "再会の願い": 2,
+        "病苦": 1,
+        "弁明": 1
+      }
+    },
+    "1900年以後": {
+      "people": 97,
+      "themes": {
+        "日常へのまなざし": 17,
+        "病苦": 11,
+        "忠義": 7,
+        "自己犠牲": 5,
+        "覚悟": 10,
+        "親への感謝": 5,
+        "戦闘の決意": 5,
+        "謝罪": 4,
+        "家族への祈り": 3,
+        "死後の継続": 3,
+        "再会の願い": 4,
+        "責任": 1,
+        "国の再建": 1,
+        "死後のつながり": 8,
+        "信仰": 5,
+        "共同体へのまなざし": 3,
+        "弁明": 1,
+        "家族への訓戒": 2,
+        "祭祀": 1,
+        "遺された人への配慮": 6,
+        "死後の安住": 5,
+        "無念": 1,
+        "国への思い": 4,
+        "故郷への思い": 6,
+        "惜別": 6,
+        "自然への愛着": 7,
+        "家族への思い": 9,
+        "葬送": 10,
+        "悲嘆": 3,
+        "自己決定": 5,
+        "尊厳": 4,
+        "死の自覚": 12,
+        "自然へのまなざし": 24,
+        "命の脆さ": 2,
+        "旅": 4,
+        "ユーモア": 2,
+        "自己の謙抑": 3,
+        "創作": 7,
+        "無常": 12,
+        "人生回顧": 9,
+        "生への願い": 6,
+        "孤独": 3,
+        "自然の持続": 5,
+        "心の持ち方": 2,
+        "心の澄明": 4,
+        "旅立ち": 8,
+        "受容": 7,
+        "感謝": 1,
+        "解脱": 2,
+        "志の継承": 2,
+        "超越": 4,
+        "現世の充実": 2,
+        "主体的な生": 1,
+        "本懐": 1,
+        "自律": 1,
+        "名誉": 1
+      }
+    },
+    "没年不詳": {
+      "people": 31,
+      "themes": {
+        "死の自覚": 9,
+        "惜別": 2,
+        "家族への思い": 2,
+        "信仰": 6,
+        "再会の願い": 1,
+        "解脱": 1,
+        "葬送": 4,
+        "無念": 2,
+        "ユーモア": 7,
+        "人生回顧": 1,
+        "無常": 12,
+        "死の普遍性": 2,
+        "悲嘆": 2,
+        "自己の謙抑": 1,
+        "死後のつながり": 1,
+        "自然への愛着": 3,
+        "孤独": 1,
+        "旅立ち": 9,
+        "受容": 6,
+        "心の持ち方": 2,
+        "死後の安住": 2,
+        "創作": 1,
+        "自然へのまなざし": 8,
+        "命の脆さ": 4,
+        "共同体へのまなざし": 2,
+        "遺された人への配慮": 2,
+        "武士の倫理": 1,
+        "名誉": 1,
+        "生への願い": 1,
+        "自己決定": 1,
+        "志の継承": 1
+      }
+    }
+  },
+  "cooccurrences": [
+    {
+      "themes": [
+        "信仰",
+        "死後の安住"
+      ],
+      "people": 29
+    },
+    {
+      "themes": [
+        "無常",
+        "自然へのまなざし"
+      ],
+      "people": 26
+    },
+    {
+      "themes": [
+        "信仰",
+        "旅立ち"
+      ],
+      "people": 21
+    },
+    {
+      "themes": [
+        "人生回顧",
+        "無常"
+      ],
+      "people": 20
+    },
+    {
+      "themes": [
+        "旅立ち",
+        "死後の安住"
+      ],
+      "people": 20
+    },
+    {
+      "themes": [
+        "受容",
+        "無常"
+      ],
+      "people": 19
+    },
+    {
+      "themes": [
+        "信仰",
+        "受容"
+      ],
+      "people": 19
+    },
+    {
+      "themes": [
+        "死の自覚",
+        "無常"
+      ],
+      "people": 19
+    },
+    {
+      "themes": [
+        "受容",
+        "旅立ち"
+      ],
+      "people": 19
+    },
+    {
+      "themes": [
+        "旅立ち",
+        "自然へのまなざし"
+      ],
+      "people": 17
+    },
+    {
+      "themes": [
+        "ユーモア",
+        "死の自覚"
+      ],
+      "people": 16
+    },
+    {
+      "themes": [
+        "受容",
+        "自然へのまなざし"
+      ],
+      "people": 16
+    },
+    {
+      "themes": [
+        "信仰",
+        "無常"
+      ],
+      "people": 15
+    },
+    {
+      "themes": [
+        "命の脆さ",
+        "無常"
+      ],
+      "people": 15
+    },
+    {
+      "themes": [
+        "ユーモア",
+        "旅立ち"
+      ],
+      "people": 13
+    },
+    {
+      "themes": [
+        "死の自覚",
+        "自然へのまなざし"
+      ],
+      "people": 13
+    },
+    {
+      "themes": [
+        "覚悟",
+        "超越"
+      ],
+      "people": 12
+    },
+    {
+      "themes": [
+        "旅立ち",
+        "死の自覚"
+      ],
+      "people": 12
+    },
+    {
+      "themes": [
+        "信仰",
+        "自然へのまなざし"
+      ],
+      "people": 12
+    },
+    {
+      "themes": [
+        "受容",
+        "死後の安住"
+      ],
+      "people": 12
+    }
+  ],
+  "method": "暫定タグの記述集計。複数タグ。没年は作成年ではない。異文も作品単位に含まれる。"
+}

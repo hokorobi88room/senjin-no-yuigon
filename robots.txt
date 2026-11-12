@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hokorobi88room.github.io/senjin-no-yuigon/sitemap.xml
